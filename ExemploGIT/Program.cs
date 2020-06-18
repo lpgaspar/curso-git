@@ -5,6 +5,7 @@ namespace ExemploGIT {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good morning!");
+            Console.WriteLine("Como está hoje?");
 
             Console.ReadLine();
         }
